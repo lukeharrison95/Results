@@ -35,8 +35,7 @@ public class Results {
 		System.out.println("Chemistry percentage" + chemistryPercentage);
 		System.out.println("Biology percentage" + biologyPercentage);
 		System.out.println("Overall Percentage =" +percentage);
-	//	 	if(percentage < 60 || physicsPercentage <60 || chemistryPercentage <60 || biologyPercentage <60) {System.out.println("You have failed, please revise.");
-	//	 }else {System.out.println("Congratulations, you have passed.");}
+
 	
 	 int count=0;
 	 if(physicsPercentage < 60) {
